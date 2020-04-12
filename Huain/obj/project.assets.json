@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Asp .net Demo\\Huain\\Huain\\Huain\\Huain.csproj",
+      "projectUniqueName": "D:\\Asp .net Demo\\Huain\\Huain\\Huain.csproj",
       "projectName": "Huain",
-      "projectPath": "D:\\Asp .net Demo\\Huain\\Huain\\Huain\\Huain.csproj",
+      "projectPath": "D:\\Asp .net Demo\\Huain\\Huain\\Huain.csproj",
       "packagesPath": "C:\\Users\\MZC\\.nuget\\packages\\",
-      "outputPath": "D:\\Asp .net Demo\\Huain\\Huain\\Huain\\obj\\",
+      "outputPath": "D:\\Asp .net Demo\\Huain\\Huain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
