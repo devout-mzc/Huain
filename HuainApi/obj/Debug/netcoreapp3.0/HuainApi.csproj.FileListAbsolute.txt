@@ -10,9 +10,15 @@ D:\Asp .net Demo\Huain\HuainApi\bin\Debug\netcoreapp3.0\HuainApi.pdb
 D:\Asp .net Demo\Huain\HuainApi\obj\Debug\netcoreapp3.0\HuainApi.csprojAssemblyReference.cache
 D:\Asp .net Demo\Huain\HuainApi\obj\Debug\netcoreapp3.0\staticwebassets\HuainApi.StaticWebAssets.Manifest.cache
 D:\Asp .net Demo\Huain\HuainApi\obj\Debug\netcoreapp3.0\staticwebassets\HuainApi.StaticWebAssets.xml
-D:\Asp .net Demo\Huain\HuainApi\obj\Debug\netcoreapp3.0\HuainApi.MvcApplicationPartsAssemblyInfo.cache
 D:\Asp .net Demo\Huain\HuainApi\obj\Debug\netcoreapp3.0\HuainApi.AssemblyInfoInputs.cache
 D:\Asp .net Demo\Huain\HuainApi\obj\Debug\netcoreapp3.0\HuainApi.AssemblyInfo.cs
 D:\Asp .net Demo\Huain\HuainApi\obj\Debug\netcoreapp3.0\HuainApi.RazorTargetAssemblyInfo.cache
 D:\Asp .net Demo\Huain\HuainApi\obj\Debug\netcoreapp3.0\HuainApi.dll
 D:\Asp .net Demo\Huain\HuainApi\obj\Debug\netcoreapp3.0\HuainApi.pdb
+D:\Asp .net Demo\Huain\HuainApi\obj\Debug\netcoreapp3.0\HuainApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Asp .net Demo\Huain\HuainApi\obj\Debug\netcoreapp3.0\HuainApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Asp .net Demo\Huain\HuainApi\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+D:\Asp .net Demo\Huain\HuainApi\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Asp .net Demo\Huain\HuainApi\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Asp .net Demo\Huain\HuainApi\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Asp .net Demo\Huain\HuainApi\obj\Debug\netcoreapp3.0\HuainApi.csproj.CopyComplete
